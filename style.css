@@ -1,0 +1,21 @@
+/*El símbolo de asterísco permite darle formato a todos los archivos*/
+/*id (#nombredelid) es más específico que clase (.clase)*/
+/*!important al agregar esta función se invalidan las reglas anteriores*/
+
+*{
+    background-color: black;
+    color: white;
+}
+.titulo{
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1{
+    color:black;
+    font-size: 25px;
+}
+
+.profile-description{
+    font-family: 'Times New Roman', Times, serif;
+}
